@@ -242,3 +242,23 @@ This project is licensed under the MIT License.
 Abir Paul
 
 B.Tech in IT, Techno Main Salt Lake
+
+---
+
+Register
+![Register](Register.jpg)
+
+Login
+![SignIn](SignIn.jpg)
+
+Products
+![Products](Products.jpg)
+
+Cart
+![Cart](Cart.jpg)
+
+Checkout
+![Checkout](Checkout.jpg)
+
+Billing
+![Billing](Billing.jpg)
